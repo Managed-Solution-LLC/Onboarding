@@ -19,7 +19,7 @@ This PowerShell script will gather information about your computer's network con
 
 ### Step 1: Download the Script
 1. Save the `NetworkDiscovery.ps1` file to your computer
-2. Recommended location: `C:\Temp\` or the same folder as these instructions
+2. Recommended location: `C:\Temp\` or your desktop
 
 ### Step 2: Open PowerShell as Administrator
 1. Press `Windows Key + X`
